@@ -1,0 +1,17 @@
+
+
+https://course.spacy.io/en/chapter4 
+
+
+    spaCy can auto-generate a default config file for you
+    interactive quickstart widget in the docs
+    init config command on the CLI
+
+$ python -m spacy init config ./config.cfg --lang en --pipeline ner
+
+    init config: the command to run
+    config.cfg: output path for the generated config
+    --lang: language class of the pipeline, e.g. en for English
+    --pipeline: comma-separated names of components to include
+
+

@@ -1,5 +1,8 @@
 [
     { "name":"paper-title", "text":"Attention is All You Need"},
     { "name":"year", "text":"spring 2017"},
-    { "name":"joke", "text":"joke is that author order would matter more if we knew that paper would become famous."}
+    { "name":"joke", "text":"The joke was that the order of authors in the paper would be more important if they knew that the paper would become famous."}
+    ,{ "name":"Hans-path", "text":
+    "Hans run away to the West Germany when he was released from the prison where he spend fifteen months. He studied linguistics and computer science in Berlin. Eventually, Hans ended up in the US where he worked in a SRI lab on artificial intelligence. SRI is a research institute in Menlo Park, California. However, he returned to Germany, when Jakob was born. Jakob went to university in Germany."
+    }
 ]
